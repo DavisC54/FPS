@@ -1,0 +1,4 @@
+repository "FPS MicroGame/FPS MicroGame@2475877022863@cloud"
+  path "/"
+    br "/main"
+    co "/main"
